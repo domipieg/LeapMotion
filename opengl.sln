@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opengl.Plugins", "opengl.Plugins.csproj", "{4016A35D-4236-5610-604A-D3B92E094E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opengl", "opengl.csproj", "{0B6AFC88-6109-B1A8-7AFD-AF84B9B527C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opengl.Editor.Plugins", "opengl.Editor.Plugins.csproj", "{4E817A59-B452-85EE-92EB-09E623318016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4016A35D-4236-5610-604A-D3B92E094E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4016A35D-4236-5610-604A-D3B92E094E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4016A35D-4236-5610-604A-D3B92E094E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4016A35D-4236-5610-604A-D3B92E094E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6AFC88-6109-B1A8-7AFD-AF84B9B527C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6AFC88-6109-B1A8-7AFD-AF84B9B527C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6AFC88-6109-B1A8-7AFD-AF84B9B527C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6AFC88-6109-B1A8-7AFD-AF84B9B527C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E817A59-B452-85EE-92EB-09E623318016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E817A59-B452-85EE-92EB-09E623318016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E817A59-B452-85EE-92EB-09E623318016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E817A59-B452-85EE-92EB-09E623318016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
